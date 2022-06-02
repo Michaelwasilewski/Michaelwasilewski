@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Michael and im a Frontend student!
 
 - 🔭 I’m currently working on my porftolio
 - 🌱 I’m currently learning html, css & javascript
