@@ -1,8 +1,8 @@
 ### Hi there 👋
 My name is Michael and im a Frontend student!
 
-- 🔭 I’m currently working on Javascript, frameworks
-- 🌱 I’m currently learning javascript, ReactJS, JSdocs, frameworks
+- 🔭 I’m currently working on Javascript, ReactJS, mySQL
+- 🌱 I’m currently learning mySQL, ReactJS, CSS frameworks
 - 💬 Ask me about: Anything!
 - 📫 How to reach me: [My Facebook page](https://www.facebook.com/Wasiu1243/)
 [My LinkedIn page](https://www.linkedin.com/in/michal-wasilewski-751b8921a/)
