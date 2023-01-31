@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Michael and im a Frontend student!
 
-- 🔭 I’m currently working on Javascript, ReactJS, mySQL
+- 🔭 I’m currently working on Javascript, ReactJS, mySQL, MongoDB
 - 🌱 I’m currently learning mySQL, ReactJS, CSS frameworks
 - 💬 Ask me about: Anything!
 - 📫 How to reach me: [My Facebook page](https://www.facebook.com/Wasiu1243/)
