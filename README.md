@@ -1,8 +1,8 @@
 ### Hi there 👋
-My name is Michael and im a Frontend student!
+My name is Michael and im a junior frontend Developer
 
 - 🔭 I’m currently working on Javascript, ReactJS, mySQL, MongoDB
-- 🌱 I’m currently learning mySQL, ReactJS, CSS frameworks
+- 🌱 I’m currently learning mySQL, ReactJS
 - 💬 Ask me about: Anything!
 - 📫 How to reach me: [My LinkedIn page](https://www.linkedin.com/in/michal-wasilewski-751b8921a/)
 
