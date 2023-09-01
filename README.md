@@ -1,8 +1,8 @@
 ### Hi there 👋
 My name is Michael and im a junior frontend Developer
 
-- 🔭 I’m currently working on Javascript, ReactJS, mySQL, MongoDB
-- 🌱 I’m currently learning mySQL, ReactJS
+- 🔭 I’m currently working on Typescript mySQL, MongoDB
+- 🌱 I’m currently learning mySQL, Typescript
 - 💬 Ask me about: Anything!
 - 📫 How to reach me: [My LinkedIn page](https://www.linkedin.com/in/michal-wasilewski-751b8921a/)
 
