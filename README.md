@@ -2,7 +2,7 @@
 My name is Michael and im a junior frontend Developer
 
 - 🔭 I’m currently working on Typescript mySQL, MongoDB
-- 🌱 I’m currently learning mySQL, Typescript
+- 🌱 I’m currently learning Typescript, C# and .Net
 - 💬 Ask me about: Anything!
 - 📫 How to reach me: [My LinkedIn page](https://www.linkedin.com/in/michal-wasilewski-751b8921a/)
 
